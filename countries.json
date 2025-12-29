@@ -1,0 +1,107 @@
+{
+    "United States": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": true
+            },
+            "outer_road_line_colour": {
+                "white": true,
+                "yellow": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": true,
+                "gen4": true
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": true,
+                "rolling hills": true,
+                "mountainous": true
+            },
+            "climate": {
+                "arid": true,
+                "tropical": true,
+                "warm": true,
+                "cold": true
+            }
+        }
+    },
+    "Serbia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": true,
+                "yellow": true
+            },
+            "outer_road_line_colour": {
+                "white": true,
+                "yellow": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": true,
+                "gen4": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": true,
+                "rolling hills": true,
+                "mountainous": true
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "warm": false,
+                "cold": true
+            }
+        }
+    },
+    "Argentina": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": true,
+                "yellow": true
+            },
+            "outer_road_line_colour": {
+                "white": true,
+                "yellow": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": true,
+                "gen4": true
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": true,
+                "rolling hills": false,
+                "mountainous": true
+            },
+            "climate": {
+                "arid": false,
+                "tropical": true,
+                "warm": false,
+                "cold": true
+            }
+        }
+    }
+}

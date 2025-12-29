@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8" />
+  <title>GeoGuessr Narrower</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+  <button class="theme-toggle" id="themeToggle">
+    <i class="fas fa-moon"></i> Dark Mode
+  </button>
+
+  <h1>GeoGuessr Narrower</h1>
+  <p>Click the features you see in your GeoGuessr round to narrow down possible countries.</p>
+
+  <div id="feature-container">
+    <!-- Feature groups will be dynamically generated here -->
+  </div>
+
+  <div id="selection-info">
+    <i class="fas fa-info-circle"></i> No features selected yet.
+  </div>
+
+  <h2>Possible Countries</h2>
+  <ul id="results"></ul>
+
+  <script src="script.js"></script>
+</body>
+</html>

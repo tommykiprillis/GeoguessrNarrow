@@ -1,0 +1,53 @@
+{
+    "road": {
+        "driving_side": {
+            "type": "enum",
+            "values": [
+                "left",
+                "right"
+            ]
+        },
+        "inner_road_line_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "yellow"
+            ]
+        },
+        "outer_road_line_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "yellow"
+            ]
+        }
+    },
+    "google_camera": {
+        "generation": {
+            "type": "enum",
+            "values": [
+                "gen3",
+                "gen4"
+            ]
+        }
+    },
+    "environment": {
+        "landscape": {
+            "type": "enum",
+            "values": [
+                "flat",
+                "rolling hills",
+                "mountainous"
+            ]
+        },
+        "climate": {
+            "type": "enum",
+            "values": [
+                "arid",
+                "tropical",
+                "warm",
+                "cold"
+            ]
+        }
+    }
+}

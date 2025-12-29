@@ -1,0 +1,37 @@
+{
+  "COUNTRY_NAME": {
+    "road": {
+      "driving_side": {
+        "left": false,
+        "right": false
+      },
+      "inner_road_line_colour": {
+        "white": false,
+        "yellow": false
+      },
+      "outer_road_line_colour": {
+        "white": false,
+        "yellow": false
+      }
+    },
+    "google_camera": {
+      "generation": {
+        "gen3": false,
+        "gen4": false
+      }
+    },
+    "environment": {
+      "landscape": {
+        "flat": false,
+        "rolling hills": false,
+        "mountainous": false
+      },
+      "climate": {
+        "arid": false,
+        "tropical": false,
+        "warm": false,
+        "cold": false
+      }
+    }
+  }
+}
