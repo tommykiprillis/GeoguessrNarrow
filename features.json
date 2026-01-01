@@ -55,5 +55,87 @@
                 "gen4"
             ]
         }
+    },
+    "google_vehicle": {
+        "vehicle_type": {
+            "type": "enum",
+            "values": [
+                "Car with Tab",
+                "Car with Open",
+                "Truck",
+                "Not visible"
+            ]
+        },
+        "antenna_length": {
+            "type": "enum",
+            "values": [
+                "Short",
+                "Long",
+                "Not visible"
+            ]
+        },
+        "antenna_type": {
+            "type": "enum",
+            "values": [
+                "A",
+                "B",
+                "C",
+                "Pronounced",
+                "Coiled"
+            ]
+        },
+        "back_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "black",
+                "red",
+                "blue",
+                "grey"
+            ]
+        },
+        "front_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "black",
+                "red",
+                "blue",
+                "grey"
+            ]
+        },
+        "truck_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "black",
+                "grey",
+                "red"
+            ]
+        },
+        "truck_antenna_length": {
+            "type": "enum",
+            "values": [
+                "long",
+                "short"
+            ]
+        },
+        "truck_antenna_position": {
+            "type": "enum",
+            "values": [
+                "left",
+                "middle",
+                "right"
+            ]
+        },
+        "truck_roof_racks": {
+            "type": "enum",
+            "values": [
+                "standard",
+                "thick indents",
+                "black tape",
+                "none"
+            ]
+        }
     }
 }

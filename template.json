@@ -35,6 +35,61 @@
         "gen3": false,
         "gen4": false
       }
+    },
+    "google_vehicle": {
+      "vehicle_type": {
+        "Car with Tab": false,
+        "Car with Open": false,
+        "Truck": false,
+        "Not visible": false
+      },
+      "antenna_length": {
+        "Short": false,
+        "Long": false,
+        "Not visible": false
+      },
+      "antenna_type": {
+        "A": false,
+        "B": false,
+        "C": false,
+        "Pronounced": false,
+        "Coiled": false
+      },
+      "back_colour": {
+        "white": false,
+        "black": false,
+        "red": false,
+        "blue": false,
+        "grey": false
+      },
+      "front_colour": {
+        "white": false,
+        "black": false,
+        "red": false,
+        "blue": false,
+        "grey": false
+      },
+      "truck_colour": {
+        "white": false,
+        "black": false,
+        "grey": false,
+        "red": false
+      },
+      "truck_antenna_length": {
+        "long": false,
+        "short": false
+      },
+      "truck_antenna_position": {
+        "left": false,
+        "middle": false,
+        "right": false
+      },
+      "truck_roof_racks": {
+        "standard": false,
+        "thick indents": false,
+        "black tape": false,
+        "none": false
+      }
     }
   }
 }
