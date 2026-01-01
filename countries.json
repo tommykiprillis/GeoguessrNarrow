@@ -14,12 +14,6 @@
                 "yellow": false
             }
         },
-        "google_camera": {
-            "generation": {
-                "gen3": true,
-                "gen4": true
-            }
-        },
         "environment": {
             "landscape": {
                 "flat": true,
@@ -29,12 +23,17 @@
             "climate": {
                 "arid": true,
                 "tropical": true,
-                "warm": true,
                 "cold": true
             },
             "sun_direction": {
                 "north": false,
                 "south": true
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": true,
+                "gen4": true
             }
         }
     },
@@ -53,12 +52,6 @@
                 "yellow": false
             }
         },
-        "google_camera": {
-            "generation": {
-                "gen3": true,
-                "gen4": false
-            }
-        },
         "environment": {
             "landscape": {
                 "flat": true,
@@ -68,12 +61,17 @@
             "climate": {
                 "arid": false,
                 "tropical": false,
-                "warm": false,
                 "cold": true
             },
             "sun_direction": {
                 "north": false,
                 "south": true
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": true,
+                "gen4": false
             }
         }
     },
@@ -92,12 +90,6 @@
                 "yellow": false
             }
         },
-        "google_camera": {
-            "generation": {
-                "gen3": true,
-                "gen4": true
-            }
-        },
         "environment": {
             "landscape": {
                 "flat": true,
@@ -107,12 +99,3665 @@
             "climate": {
                 "arid": false,
                 "tropical": true,
-                "warm": false,
                 "cold": true
             },
             "sun_direction": {
                 "north": true,
                 "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": true,
+                "gen4": true
+            }
+        }
+    },
+    "Sri Lanka": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Thailand": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Canada": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Mexico": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Colombia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Ecuador": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Peru": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Bolivia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Brazil": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Paraguay": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Uruguay": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Chile": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Costa Rica": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Panama": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Dominican Republic": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Guatemala": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Ireland": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "United Kingdom": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "France": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Belgium": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Netherlands": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Luxembourg": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Spain": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Portugal": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Andorra": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Monaco": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Italy": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Switzerland": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "San Marino": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Germany": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Austria": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Czechia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Slovakia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Poland": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Denmark": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Norway": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Sweden": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Finland": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Iceland": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Faroe Islands": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Liechtenstein": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Hungary": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Slovenia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Croatia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Bosnia and Herzegovina": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Romania": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Bulgaria": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Montenegro": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Albania": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Greece": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Turkey": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Lithuania": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Latvia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Estonia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "North Macedonia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Malta": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Cyprus": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Tunisia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Senegal": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Ghana": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Nigeria": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Rwanda": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Uganda": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Kenya": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Namibia": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Botswana": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "South Africa": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Lesotho": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Eswatini": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Lebanon": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Israel": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Jordan": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Qatar": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "United Arab Erimates": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Oman": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Ukraine": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Russia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Kazakhstan": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Mongolia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Kyrgyzstan": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "India": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Nepal": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Bhutan": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Bangladesh": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Cambodia": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Vietnam": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Malaysia": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Singapore": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Indonesia": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Philippines": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Hong Kong": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Taiwan": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "South Korea": {
+        "road": {
+            "driving_side": {
+                "left": false,
+                "right": true
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Japan": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "Australia": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
+            }
+        }
+    },
+    "New Zealand": {
+        "road": {
+            "driving_side": {
+                "left": true,
+                "right": false
+            },
+            "inner_road_line_colour": {
+                "white": false,
+                "yellow": false
+            },
+            "outer_road_line_colour": {
+                "white": false,
+                "yellow": false
+            }
+        },
+        "environment": {
+            "landscape": {
+                "flat": false,
+                "rolling hills": false,
+                "mountainous": false
+            },
+            "climate": {
+                "arid": false,
+                "tropical": false,
+                "cold": false
+            },
+            "sun_direction": {
+                "north": false,
+                "south": false
+            }
+        },
+        "google_camera": {
+            "generation": {
+                "gen3": false,
+                "gen4": false
             }
         }
     }

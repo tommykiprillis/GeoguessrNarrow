@@ -22,15 +22,6 @@
             ]
         }
     },
-    "google_camera": {
-        "generation": {
-            "type": "enum",
-            "values": [
-                "gen3",
-                "gen4"
-            ]
-        }
-    },
     "environment": {
         "landscape": {
             "type": "enum",
@@ -45,7 +36,6 @@
             "values": [
                 "arid",
                 "tropical",
-                "warm",
                 "cold"
             ]
         },
@@ -54,6 +44,15 @@
             "values": [
                 "north",
                 "south"
+            ]
+        }
+    },
+    "google_camera": {
+        "generation": {
+            "type": "enum",
+            "values": [
+                "gen3",
+                "gen4"
             ]
         }
     }

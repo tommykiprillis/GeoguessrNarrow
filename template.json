@@ -14,12 +14,6 @@
         "yellow": false
       }
     },
-    "google_camera": {
-      "generation": {
-        "gen3": false,
-        "gen4": false
-      }
-    },
     "environment": {
       "landscape": {
         "flat": false,
@@ -29,12 +23,17 @@
       "climate": {
         "arid": false,
         "tropical": false,
-        "warm": false,
         "cold": false
       },
       "sun_direction": {
         "north": false,
         "south": false
+      }
+    },
+    "google_camera": {
+      "generation": {
+        "gen3": false,
+        "gen4": false
       }
     }
   }
