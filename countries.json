@@ -31,6 +31,10 @@
                 "tropical": true,
                 "warm": true,
                 "cold": true
+            },
+            "sun_direction": {
+                "north": false,
+                "south": true
             }
         }
     },
@@ -66,6 +70,10 @@
                 "tropical": false,
                 "warm": false,
                 "cold": true
+            },
+            "sun_direction": {
+                "north": false,
+                "south": true
             }
         }
     },
@@ -101,6 +109,10 @@
                 "tropical": true,
                 "warm": false,
                 "cold": true
+            },
+            "sun_direction": {
+                "north": true,
+                "south": false
             }
         }
     }

@@ -31,6 +31,10 @@
         "tropical": false,
         "warm": false,
         "cold": false
+      },
+      "sun_direction": {
+        "north": false,
+        "south": false
       }
     }
   }

@@ -48,6 +48,13 @@
                 "warm",
                 "cold"
             ]
+        },
+        "sun_direction": {
+            "type": "enum",
+            "values": [
+                "north",
+                "south"
+            ]
         }
     }
 }
