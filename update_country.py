@@ -27,7 +27,7 @@ def save_countries(countries):
     print(f"✅ Saved {len(countries)} countries to countries.json")
 
 def select_feature_for_batch(features):
-    """Let user select a single feature to update across all countries"""
+    """Let user select a single feature to update across countries"""
     print("\n📋 Select a feature to batch update:")
     
     # Create a flat list of all features with their categories
@@ -76,29 +76,266 @@ def select_feature_for_batch(features):
                         return feat
             print("❌ Feature not found. Please select from the list.")
 
-def batch_update_single_feature(features, countries, selected_feature):
-    """Update a single feature across multiple countries"""
+def select_countries_for_batch(countries, feature_info):
+    """Let user select which countries to update"""
+    category = feature_info['category']
+    feature = feature_info['feature']
+    
+    print(f"\n🎯 Selecting countries to update for {category}.{feature}")
+    print("=" * 60)
+    
+    country_list = sorted(countries.keys())
+    
+    # Show all countries with their current value for this feature
+    print("\n📋 Countries (with current value for this feature):")
+    print("-" * 60)
+    
+    country_info = {}
+    for i, country_name in enumerate(country_list, 1):
+        # Get current true values for this feature
+        current_true = []
+        if (category in countries[country_name] and 
+            feature in countries[country_name][category]):
+            for value in feature_info['values']:
+                if (value in countries[country_name][category][feature] and 
+                    countries[country_name][category][feature][value]):
+                    current_true.append(value)
+        
+        current_display = ', '.join(current_true) if current_true else 'None'
+        print(f"  {i:3}. {country_name:30} → {current_display}")
+        country_info[country_name] = {'index': i, 'current': current_true}
+    
+    print(f"\n💡 Options for selecting countries:")
+    print("   • Enter 'all' to update ALL countries")
+    print("   • Enter numbers (comma-separated, e.g., '1,3,5')")
+    print("   • Enter country names (comma-separated, e.g., 'United States,Canada,Mexico')")
+    print("   • Mix numbers and names (e.g., '1,United States,3')")
+    
+    while True:
+        selection = input(f"\nEnter countries to update: ").strip()
+        
+        if not selection:
+            print("❌ Please enter a selection.")
+            continue
+        
+        if selection.lower() == 'all':
+            print(f"✅ Selected ALL {len(country_list)} countries")
+            return country_list, country_info
+        
+        # Parse the selection
+        selected_countries = []
+        parts = [p.strip() for p in selection.split(',')]
+        
+        for part in parts:
+            if not part:
+                continue
+                
+            if part.isdigit():
+                # It's a number
+                idx = int(part)
+                if 1 <= idx <= len(country_list):
+                    selected_countries.append(country_list[idx - 1])
+                else:
+                    print(f"⚠️  Warning: Number {idx} is out of range (1-{len(country_list)})")
+            else:
+                # It's a country name
+                if part in countries:
+                    selected_countries.append(part)
+                else:
+                    # Try case-insensitive match
+                    found = False
+                    for country in country_list:
+                        if country.lower() == part.lower():
+                            selected_countries.append(country)
+                            found = True
+                            break
+                    if not found:
+                        print(f"⚠️  Warning: Country '{part}' not found")
+        
+        # Remove duplicates
+        selected_countries = list(dict.fromkeys(selected_countries))
+        
+        if selected_countries:
+            print(f"\n✅ Selected {len(selected_countries)} country(s):")
+            for i, country in enumerate(selected_countries, 1):
+                print(f"   {i:2}. {country}")
+            
+            confirm = input(f"\nConfirm selection? (y/n): ").strip().lower()
+            if confirm == 'y':
+                return selected_countries, country_info
+            else:
+                print("❌ Selection cancelled. Please select again.")
+                continue
+        else:
+            print("❌ No valid countries selected. Please try again.")
+
+def batch_update_single_feature_all_at_once(features, countries, selected_feature, selected_countries, country_info):
+    """Update a single feature for ALL selected countries at once"""
+    category = selected_feature['category']
+    feature = selected_feature['feature']
+    possible_values = selected_feature['values']
+    
+    print(f"\n🎯 BATCH UPDATE ALL AT ONCE: {category}.{feature}")
+    print("=" * 60)
+    
+    # Show summary of selected countries
+    print(f"\n📊 Selected {len(selected_countries)} country(s):")
+    for i, country_name in enumerate(selected_countries[:10], 1):  # Show first 10
+        current_true = country_info[country_name]['current'] if country_name in country_info else []
+        current_display = ', '.join(current_true) if current_true else 'None'
+        print(f"   {i:2}. {country_name}: {current_display}")
+    
+    if len(selected_countries) > 10:
+        print(f"   ... and {len(selected_countries) - 10} more")
+    
+    print(f"\n🔧 Options for {feature.replace('_', ' ').title()}:")
+    for j, value in enumerate(possible_values, 1):
+        print(f"   {j}. {value}")
+    
+    print(f"\n💡 Instructions:")
+    print("   • Enter comma-separated numbers or values (e.g., '1,3' or 'left,yellow')")
+    print("   • Type 'all' to set ALL values to True for ALL selected countries")
+    print("   • Type 'none' to set ALL values to False for ALL selected countries")
+    print("   • Type 'cancel' to cancel the batch update")
+    print("=" * 60)
+    
+    # Get the values to set
+    while True:
+        user_input = input(f"\nEnter values to set for ALL {len(selected_countries)} countries: ").strip().lower()
+        
+        if not user_input:
+            print("❌ Please enter a value.")
+            continue
+        
+        if user_input == 'cancel':
+            print("❌ Batch update cancelled.")
+            return countries, 0, False
+        
+        elif user_input == 'none':
+            # Set all values to False for all selected countries
+            values_to_set = []
+            action = "set ALL values to False"
+            break
+        
+        elif user_input == 'all':
+            # Set all values to True for all selected countries
+            values_to_set = possible_values
+            action = "set ALL values to True"
+            break
+        
+        else:
+            # Process the input
+            selected_values = []
+            
+            # Split by comma if multiple values
+            if ',' in user_input:
+                parts = [p.strip() for p in user_input.split(',')]
+                for part in parts:
+                    if part.isdigit():
+                        idx = int(part)
+                        if 1 <= idx <= len(possible_values):
+                            selected_values.append(possible_values[idx-1])
+                    elif part in possible_values:
+                        selected_values.append(part)
+            else:
+                # Single value
+                if user_input.isdigit():
+                    idx = int(user_input)
+                    if 1 <= idx <= len(possible_values):
+                        selected_values = [possible_values[idx-1]]
+                elif user_input in possible_values:
+                    selected_values = [user_input]
+            
+            if selected_values:
+                values_to_set = selected_values
+                action = f"set {', '.join(selected_values)} to True"
+                break
+            else:
+                print(f"❌ Invalid input. Please enter numbers (1-{len(possible_values)}), values, 'all', 'none', or 'cancel'")
+    
+    # Show what will happen
+    print(f"\n⚠️  You are about to:")
+    print(f"   • Feature: {category}.{feature}")
+    print(f"   • Action: {action}")
+    print(f"   • Countries affected: {len(selected_countries)}")
+    print(f"   • This will overwrite existing values for this feature!")
+    
+    # Show preview of changes for first 5 countries
+    print(f"\n📋 Preview (first 5 countries):")
+    for country_name in selected_countries[:5]:
+        current_true = country_info[country_name]['current'] if country_name in country_info else []
+        current_display = ', '.join(current_true) if current_true else 'None'
+        
+        if user_input == 'none':
+            new_display = 'None'
+        elif user_input == 'all':
+            new_display = ', '.join(possible_values)
+        else:
+            new_display = ', '.join(values_to_set)
+        
+        print(f"   • {country_name}: {current_display} → {new_display}")
+    
+    if len(selected_countries) > 5:
+        print(f"   ... and {len(selected_countries) - 5} more")
+    
+    # Final confirmation
+    confirm = input(f"\n🚨 CONFIRM: Apply these changes to ALL {len(selected_countries)} countries? (y/N): ").strip().lower()
+    
+    if confirm != 'y':
+        print("❌ Batch update cancelled.")
+        return countries, 0, False
+    
+    # Apply changes to all selected countries
+    print(f"\n🔄 Applying changes to {len(selected_countries)} countries...")
+    
+    for country_name in selected_countries:
+        # Ensure the feature structure exists in this country
+        if category not in countries[country_name]:
+            countries[country_name][category] = {}
+        if feature not in countries[country_name][category]:
+            # Initialize with all False
+            countries[country_name][category][feature] = {value: False for value in possible_values}
+        
+        # Apply the values
+        if user_input == 'none':
+            # Set all to False
+            for value in possible_values:
+                countries[country_name][category][feature][value] = False
+        elif user_input == 'all':
+            # Set all to True
+            for value in possible_values:
+                countries[country_name][category][feature][value] = True
+        else:
+            # Set specific values
+            for value in possible_values:
+                countries[country_name][category][feature][value] = (value in values_to_set)
+    
+    print(f"✅ Successfully updated {len(selected_countries)} countries")
+    return countries, len(selected_countries), False
+
+def batch_update_single_feature_one_by_one(features, countries, selected_feature, selected_countries, country_info):
+    """Update a single feature across selected countries one by one"""
     category = selected_feature['category']
     feature = selected_feature['feature']
     possible_values = selected_feature['values']
     
     print(f"\n🎯 Batch updating: {category}.{feature}")
+    print(f"   Selected countries: {len(selected_countries)}")
     print(f"   Possible values: {', '.join(possible_values)}")
     print("=" * 60)
     print("\n💡 Instructions:")
     print("   • Enter comma-separated numbers or values (e.g., '1,3' or 'left,yellow')")
     print("   • Type 'all' to set ALL values to True")
     print("   • Type 'none' to set ALL values to False")
-    print("   • Press Enter (empty) to QUIT batch update")
+    print("   • Press Enter (empty) to SKIP current country")
+    print("   • Type 'quit' to STOP batch update entirely")
     print("=" * 60)
     
-    country_list = sorted(countries.keys())
-    total_countries = len(country_list)
-    
+    total_countries = len(selected_countries)
     updated_count = 0
     skipped_count = 0
     
-    for i, country_name in enumerate(country_list, 1):
+    for i, country_name in enumerate(selected_countries, 1):
         print(f"\n{'='*60}")
         print(f"🇺🇳 Country {i}/{total_countries}: {country_name}")
         print(f"{'='*60}")
@@ -130,11 +367,16 @@ def batch_update_single_feature(features, countries, selected_feature):
         
         # Get user input
         while True:
-            user_input = input(f"\n   Enter values for {country_name} (or press Enter to quit): ").strip().lower()
+            user_input = input(f"\n   Enter values for {country_name}: ").strip().lower()
             
             if not user_input:
-                # Empty input means quit
-                print(f"\n⏹️  Quitting batch update after {updated_count} countries updated.")
+                # Empty input means skip this country
+                print(f"   ⏭️  Skipping {country_name}")
+                skipped_count += 1
+                break
+            
+            if user_input == 'quit':
+                print(f"\n⏹️  Stopping batch update after {updated_count} countries updated.")
                 return countries, updated_count, skipped_count, True
             
             elif user_input == 'none':
@@ -181,7 +423,7 @@ def batch_update_single_feature(features, countries, selected_feature):
                     updated_count += 1
                     break
                 else:
-                    print(f"   ❌ Invalid input. Please enter numbers (1-{len(possible_values)}), values, 'all', or 'none'")
+                    print(f"   ❌ Invalid input. Please enter numbers (1-{len(possible_values)}), values, 'all', 'none', or 'quit'")
     
     return countries, updated_count, skipped_count, False
 
@@ -519,7 +761,7 @@ def main():
     # Ask what to update
     print(f"\n🤔 What would you like to update?")
     print("   1. Update a single country")
-    print("   2. Update a single feature across ALL countries (batch mode)")
+    print("   2. Update a single feature across specific countries (batch mode)")
     
     while True:
         choice = input("\nEnter choice (1-2): ").strip()
@@ -590,14 +832,40 @@ def main():
             break
         
         elif choice == "2":
-            # Batch update single feature across all countries
+            # Batch update single feature across specific countries
             # First select which feature to update
             selected_feature = select_feature_for_batch(features)
             if not selected_feature:
                 return
             
-            # Run the batch update
-            countries, updated_count, skipped_count, quit_early = batch_update_single_feature(features, countries, selected_feature)
+            # Then select which countries to update
+            selected_countries, country_info = select_countries_for_batch(countries, selected_feature)
+            if not selected_countries:
+                return
+            
+            # Ask which batch mode to use
+            print(f"\n⚡ BATCH UPDATE MODE for {len(selected_countries)} countries:")
+            print("   1. Update ALL AT ONCE (same values for all countries)")
+            print("   2. Update ONE BY ONE (different values for each country)")
+            
+            while True:
+                batch_mode = input("\nChoose batch mode (1/2): ").strip()
+                
+                if batch_mode == "1":
+                    # Update all at once
+                    countries, updated_count, quit_early = batch_update_single_feature_all_at_once(
+                        features, countries, selected_feature, selected_countries, country_info
+                    )
+                    skipped_count = 0  # No skipping in all-at-once mode
+                    break
+                elif batch_mode == "2":
+                    # Update one by one
+                    countries, updated_count, skipped_count, quit_early = batch_update_single_feature_one_by_one(
+                        features, countries, selected_feature, selected_countries, country_info
+                    )
+                    break
+                else:
+                    print("❌ Please enter 1 or 2.")
             
             if updated_count > 0:
                 # Save changes
@@ -612,7 +880,10 @@ def main():
                 feature_name = f"{selected_feature['category']}.{selected_feature['feature']}"
                 print(f"\n✅ Updated {updated_count} country(s) for feature: {feature_name}")
                 
-                if quit_early:
+                if batch_mode == "2" and skipped_count > 0:
+                    print(f"⏭️  Skipped {skipped_count} country(s)")
+                
+                if quit_early and batch_mode == "2":
                     print("⏹️  Stopped early (user quit)")
                 
                 print(f"\n📈 Total countries in database: {len(countries)}")

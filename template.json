@@ -33,7 +33,8 @@
     "google_camera": {
       "generation": {
         "gen3": false,
-        "gen4": false
+        "gen4": false,
+        "Shit Cam": false
       }
     },
     "google_vehicle": {

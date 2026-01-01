@@ -52,7 +52,8 @@
             "type": "enum",
             "values": [
                 "gen3",
-                "gen4"
+                "gen4",
+                "Shit Cam"
             ]
         }
     },
