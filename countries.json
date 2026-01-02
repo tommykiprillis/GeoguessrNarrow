@@ -42,7 +42,7 @@
                 "Car with Tab": false,
                 "Car with Open": true,
                 "Truck": false,
-                "Not visible": true
+                "Not visible": false
             },
             "antenna_length": {
                 "Short": false,
@@ -228,7 +228,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -416,7 +416,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -510,7 +510,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -604,7 +604,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -698,7 +698,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -886,7 +886,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -1074,7 +1074,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -1356,7 +1356,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -1825,7 +1825,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -1919,7 +1919,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -2013,7 +2013,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -2201,7 +2201,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -2389,7 +2389,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -2483,7 +2483,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -2765,7 +2765,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3047,7 +3047,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3141,7 +3141,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3235,7 +3235,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3329,7 +3329,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3423,7 +3423,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3517,7 +3517,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3611,7 +3611,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3705,7 +3705,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -3799,7 +3799,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -4175,7 +4175,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -4269,7 +4269,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -4457,7 +4457,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -4551,7 +4551,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -4645,7 +4645,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -4927,7 +4927,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -5021,7 +5021,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -5115,7 +5115,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -5209,7 +5209,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -5303,7 +5303,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -6525,7 +6525,7 @@
         },
         "google_vehicle": {
             "vehicle_type": {
-                "Car with Tab": false,
+                "Car with Tab": true,
                 "Car with Open": false,
                 "Truck": false,
                 "Not visible": false
@@ -6902,7 +6902,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -8124,7 +8124,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -8312,7 +8312,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -8500,7 +8500,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -8594,7 +8594,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -8688,7 +8688,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -8876,7 +8876,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -9158,7 +9158,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
@@ -9252,7 +9252,7 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
+                "Car with Open": true,
                 "Truck": false,
                 "Not visible": false
             },
