@@ -78,18 +78,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -172,18 +190,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -266,18 +302,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -360,18 +414,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -454,18 +526,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -548,18 +638,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -642,18 +750,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -736,18 +862,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -793,7 +937,7 @@
             "vehicle_type": {
                 "Car with Tab": false,
                 "Car with Open": false,
-                "Truck": false,
+                "Truck": true,
                 "Not visible": false
             },
             "antenna_length": {
@@ -823,25 +967,43 @@
                 "grey": false
             },
             "truck_colour": {
-                "white": false,
+                "white": true,
                 "black": false,
                 "grey": false,
                 "red": false
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": true
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": true
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
-                "none": false
+                "none": true
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -924,18 +1086,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1018,18 +1198,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1112,18 +1310,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1206,18 +1422,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1300,18 +1534,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1394,18 +1646,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1488,18 +1758,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1582,18 +1870,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1676,18 +1982,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1770,18 +2094,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1864,18 +2206,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -1958,18 +2318,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2052,18 +2430,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2146,18 +2542,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2240,18 +2654,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2334,18 +2766,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2428,18 +2878,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2522,18 +2990,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2616,18 +3102,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2710,18 +3214,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2804,18 +3326,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2898,18 +3438,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -2992,18 +3550,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3086,18 +3662,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3180,18 +3774,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3274,18 +3886,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3368,18 +3998,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3462,18 +4110,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3556,18 +4222,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3650,18 +4334,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3744,18 +4446,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3838,18 +4558,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -3932,18 +4670,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4026,18 +4782,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4120,18 +4894,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4214,18 +5006,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4308,18 +5118,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4402,18 +5230,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4496,18 +5342,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4590,18 +5454,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4684,18 +5566,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4778,18 +5678,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4872,18 +5790,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -4966,18 +5902,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5060,18 +6014,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5154,18 +6126,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5248,18 +6238,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5342,18 +6350,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5436,18 +6462,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5530,18 +6574,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5624,18 +6686,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5718,18 +6798,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5812,18 +6910,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -5906,18 +7022,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6000,18 +7134,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6094,18 +7246,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6188,18 +7358,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6282,18 +7470,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6376,18 +7582,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6470,18 +7694,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6564,18 +7806,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6658,18 +7918,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6752,18 +8030,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6846,18 +8142,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -6940,18 +8254,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7034,18 +8366,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7128,18 +8478,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7222,18 +8590,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7316,18 +8702,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7410,18 +8814,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7504,18 +8926,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7598,18 +9038,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7692,18 +9150,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7786,18 +9262,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7880,18 +9374,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -7974,18 +9486,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8068,18 +9598,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8162,18 +9710,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8256,18 +9822,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8350,18 +9934,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8444,18 +10046,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8538,18 +10158,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8632,18 +10270,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8726,18 +10382,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8820,18 +10494,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -8914,18 +10606,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -9008,18 +10718,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -9102,18 +10830,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -9196,18 +10942,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     },
@@ -9290,18 +11054,36 @@
             },
             "truck_antenna_length": {
                 "long": false,
-                "short": false
+                "short": false,
+                "No Antenna": false
             },
             "truck_antenna_position": {
                 "left": false,
                 "middle": false,
-                "right": false
+                "right": false,
+                "No Antenna": false
             },
             "truck_roof_racks": {
                 "standard": false,
                 "thick indents": false,
                 "black tape": false,
                 "none": false
+            }
+        },
+        "chevron": {
+            "background_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
+            },
+            "arrow_colour": {
+                "white": false,
+                "black": false,
+                "red": false,
+                "yellow": false,
+                "blue": false
             }
         }
     }
