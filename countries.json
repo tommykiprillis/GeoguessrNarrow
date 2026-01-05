@@ -658,18 +658,14 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -2459,12 +2455,9 @@
                 "yellow": false,
                 "blue": true
             },
+
             "arrow_colour": {
                 "white": true,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
                 "black": false,
                 "red": false,
                 "yellow": false,
@@ -2906,17 +2899,13 @@
         "chevron": {
             "background_colour": {
                 "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": true
             },
             "arrow_colour": {
                 "white": true,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
                 "black": false,
                 "red": false,
                 "yellow": false,
@@ -8511,16 +8500,13 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": false,
                 "blue": true
             },
+
             "arrow_colour": {
                 "white": true,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
                 "black": false,
                 "red": false,
                 "yellow": false,
@@ -9075,18 +9061,14 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -9976,18 +9958,14 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -11105,19 +11083,15 @@
         "chevron": {
             "background_colour": {
                 "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
