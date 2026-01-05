@@ -118,7 +118,8 @@
             "type": "enum",
             "values": [
                 "long",
-                "short"
+                "short",
+                "No Antenna"
             ]
         },
         "truck_antenna_position": {
@@ -126,7 +127,8 @@
             "values": [
                 "left",
                 "middle",
-                "right"
+                "right",
+                "No Antenna"
             ]
         },
         "truck_roof_racks": {
@@ -136,6 +138,28 @@
                 "thick indents",
                 "black tape",
                 "none"
+            ]
+        }
+    },
+    "chevron": {
+        "background_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "black",
+                "red",
+                "yellow",
+                "blue"
+            ]
+        },
+        "arrow_colour": {
+            "type": "enum",
+            "values": [
+                "white",
+                "black",
+                "red",
+                "yellow",
+                "blue"
             ]
         }
     }

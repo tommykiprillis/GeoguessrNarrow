@@ -78,18 +78,36 @@
       },
       "truck_antenna_length": {
         "long": false,
-        "short": false
+        "short": false,
+        "No Antenna": false
       },
       "truck_antenna_position": {
         "left": false,
         "middle": false,
-        "right": false
+        "right": false,
+        "No Antenna": false
       },
       "truck_roof_racks": {
         "standard": false,
         "thick indents": false,
         "black tape": false,
         "none": false
+      }
+    },
+    "chevron": {
+      "background_colour": {
+        "white": false,
+        "black": false,
+        "red": false,
+        "yellow": false,
+        "blue": false
+      },
+      "arrow_colour": {
+        "white": false,
+        "black": false,
+        "red": false,
+        "yellow": false,
+        "blue": false
       }
     }
   }
