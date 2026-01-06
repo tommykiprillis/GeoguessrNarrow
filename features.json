@@ -62,9 +62,10 @@
             "type": "enum",
             "values": [
                 "Car with Tab",
-                "Car with Open",
+                "Front of car unblurred",
                 "Truck",
-                "Not visible"
+                "Not visible",
+                "Back of car unblurred"
             ]
         },
         "antenna_length": {

@@ -40,9 +40,10 @@
     "google_vehicle": {
       "vehicle_type": {
         "Car with Tab": false,
-        "Car with Open": false,
+        "Front of car unblurred": false,
         "Truck": false,
-        "Not visible": false
+        "Not visible": false,
+        "Back of car unblurred": false
       },
       "antenna_length": {
         "Short": false,

@@ -40,9 +40,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -152,9 +153,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -264,9 +266,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -376,9 +379,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -488,9 +492,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -587,7 +592,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -600,9 +605,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -658,18 +664,13 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": true,
                 "blue": false
             },
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -704,7 +705,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -717,9 +718,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -829,9 +831,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -941,9 +944,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": true,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1053,9 +1057,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1165,9 +1170,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1263,7 +1269,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -1277,9 +1283,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1375,7 +1382,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -1389,9 +1396,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1487,7 +1495,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -1501,9 +1509,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1599,7 +1608,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -1613,9 +1622,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1725,9 +1735,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1837,9 +1848,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -1949,9 +1961,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2061,9 +2074,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2160,7 +2174,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2173,9 +2187,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2272,7 +2287,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2285,9 +2300,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2384,7 +2400,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2397,9 +2413,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2461,10 +2478,6 @@
             },
             "arrow_colour": {
                 "white": true,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
                 "black": false,
                 "red": false,
                 "yellow": false,
@@ -2500,7 +2513,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2513,9 +2526,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2612,7 +2626,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2625,9 +2639,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2724,7 +2739,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2737,9 +2752,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2836,7 +2852,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2849,9 +2865,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -2906,17 +2923,13 @@
         "chevron": {
             "background_colour": {
                 "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": true
             },
             "arrow_colour": {
                 "white": true,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
                 "black": false,
                 "red": false,
                 "yellow": false,
@@ -2952,7 +2965,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -2965,9 +2978,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3064,7 +3078,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3077,9 +3091,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3189,9 +3204,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3288,7 +3304,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3301,9 +3317,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3400,7 +3417,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3413,9 +3430,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3512,7 +3530,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3525,9 +3543,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3624,7 +3643,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3637,9 +3656,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3736,7 +3756,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3749,9 +3769,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3848,7 +3869,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3861,9 +3882,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -3960,7 +3982,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -3973,9 +3995,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4072,7 +4095,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4085,9 +4108,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4184,7 +4208,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4197,9 +4221,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4296,7 +4321,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4309,9 +4334,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4408,7 +4434,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4421,9 +4447,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4520,7 +4547,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4533,9 +4560,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4632,7 +4660,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4645,9 +4673,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4757,9 +4786,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4856,7 +4886,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4869,9 +4899,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -4968,7 +4999,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -4981,9 +5012,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5080,7 +5112,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5093,9 +5125,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5192,7 +5225,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5205,9 +5238,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5317,9 +5351,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5416,7 +5451,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5429,9 +5464,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5528,7 +5564,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5541,9 +5577,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5653,9 +5690,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5752,7 +5790,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5765,9 +5803,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5864,7 +5903,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5877,9 +5916,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -5976,7 +6016,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -5989,9 +6029,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6088,7 +6129,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -6101,9 +6142,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6200,7 +6242,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -6213,9 +6255,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6312,7 +6355,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -6325,9 +6368,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6424,7 +6468,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -6437,9 +6481,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6549,9 +6594,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6648,7 +6694,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -6661,9 +6707,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6760,7 +6807,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -6773,9 +6820,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6885,9 +6933,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -6997,9 +7046,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7109,9 +7159,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7221,9 +7272,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7333,9 +7385,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7445,9 +7498,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7543,7 +7597,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -7557,9 +7611,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7655,7 +7710,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -7669,9 +7724,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7767,7 +7823,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -7781,9 +7837,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": true,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7879,7 +7936,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -7893,9 +7950,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -7991,7 +8049,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -8005,9 +8063,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8117,9 +8176,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8216,7 +8276,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -8229,9 +8289,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8328,7 +8389,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -8341,9 +8402,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8453,9 +8515,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8511,16 +8574,12 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": false,
                 "blue": true
             },
             "arrow_colour": {
                 "white": true,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
                 "black": false,
                 "red": false,
                 "yellow": false,
@@ -8556,7 +8615,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -8569,9 +8628,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8681,9 +8741,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8780,7 +8841,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -8793,9 +8854,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -8892,7 +8954,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -8905,9 +8967,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9004,7 +9067,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -9017,9 +9080,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9075,18 +9139,13 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": true,
                 "blue": false
             },
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -9121,7 +9180,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -9134,9 +9193,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9246,9 +9306,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9345,7 +9406,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -9358,9 +9419,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9457,7 +9519,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -9470,9 +9532,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9569,7 +9632,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -9582,9 +9645,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9681,7 +9745,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -9694,9 +9758,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9806,9 +9871,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9918,9 +9984,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -9976,18 +10043,13 @@
             "background_colour": {
                 "white": false,
                 "black": false,
-                "red": false,
+                "red": true,
                 "yellow": true,
                 "blue": false
             },
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -10035,9 +10097,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10147,9 +10210,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10259,9 +10323,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10371,9 +10436,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10483,9 +10549,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10582,7 +10649,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -10595,9 +10662,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10694,7 +10762,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -10707,9 +10775,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10806,7 +10875,7 @@
             },
             "sun_direction": {
                 "north": false,
-                "south": false
+                "south": true
             }
         },
         "google_camera": {
@@ -10819,9 +10888,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": false,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": false,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10917,7 +10987,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -10931,9 +11001,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -10988,19 +11059,14 @@
         "chevron": {
             "background_colour": {
                 "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": true,
                 "blue": false
             },
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
@@ -11034,7 +11100,7 @@
                 "cold": false
             },
             "sun_direction": {
-                "north": false,
+                "north": true,
                 "south": false
             }
         },
@@ -11048,9 +11114,10 @@
         "google_vehicle": {
             "vehicle_type": {
                 "Car with Tab": false,
-                "Car with Open": true,
                 "Truck": false,
-                "Not visible": false
+                "Not visible": false,
+                "Front of car unblurred": true,
+                "Back of car unblurred": false
             },
             "antenna_length": {
                 "Short": false,
@@ -11105,19 +11172,14 @@
         "chevron": {
             "background_colour": {
                 "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": true,
                 "blue": false
             },
             "arrow_colour": {
                 "white": true,
-                "yellow": false,
-                "blue": false
-            },
-            "arrow_colour": {
-                "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
