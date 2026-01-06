@@ -668,6 +668,7 @@
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": true,
@@ -2476,6 +2477,7 @@
                 "yellow": false,
                 "blue": true
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": false,
@@ -8578,6 +8580,7 @@
                 "yellow": false,
                 "blue": true
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": false,
@@ -9143,6 +9146,7 @@
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": true,
@@ -10047,6 +10051,7 @@
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": true,
@@ -11064,6 +11069,7 @@
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": true,
@@ -11177,6 +11183,7 @@
                 "yellow": true,
                 "blue": false
             },
+
             "arrow_colour": {
                 "white": true,
                 "black": true,
