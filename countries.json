@@ -552,12 +552,12 @@
                 "white": false,
                 "black": false,
                 "red": false,
-                "yellow": false,
+                "yellow": true,
                 "blue": false
             },
             "arrow_colour": {
                 "white": false,
-                "black": false,
+                "black": true,
                 "red": false,
                 "yellow": false,
                 "blue": false
