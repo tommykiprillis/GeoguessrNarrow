@@ -10971,7 +10971,7 @@
                 "yellow": false
             },
             "outer_road_line_colour": {
-                "white": false,
+                "white": true,
                 "yellow": false
             }
         },
