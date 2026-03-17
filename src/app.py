@@ -97,7 +97,10 @@ def narrow(req: NarrowRequest):
 
 @app.get("/")
 def read_root():
-    return FileResponse("index.html")
+    file_path = BASE_DIR / "src" / "index.html"
+    if not file_path.exists():
+        raise HTTPException(status_code=404, detail="index.html not found")
+    return FileResponse(file_path)
 
 
 @app.get("/features.json")
