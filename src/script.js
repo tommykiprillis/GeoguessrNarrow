@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
         window.location.hostname === "localhost" ||
         window.location.hostname === "127.0.0.1"
             ? window.location.origin
-            : "https://geoguessrnarrow.onrender.com/";
+            : "https://geoguessrnarrow.onrender.com";
 
     // Load features from features.json and generate UI
     loadFeatures();
