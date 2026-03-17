@@ -5,8 +5,12 @@ from pydantic import BaseModel
 from typing import Dict, List
 import json
 import os
+from pathlib import Path
 
 app = FastAPI()
+
+# Get the directory where this script is located
+BASE_DIR = Path(__file__).parent.parent
 
 # Allow local frontend
 app.add_middleware(
@@ -23,7 +27,8 @@ class NarrowRequest(BaseModel):
 
 def load_countries():
     """Load country data from JSON file"""
-    with open("countries.json", "r", encoding="utf-8") as f:
+    file_path = BASE_DIR / "data" / "countries.json"
+    with open(file_path, "r", encoding="utf-8") as f:
         return json.load(f)
 
 
@@ -98,11 +103,12 @@ def read_root():
 @app.get("/features.json")
 def get_features():
     # Check if file exists
-    if not os.path.exists("features.json"):
+    file_path = BASE_DIR / "data" / "features.json"
+    if not file_path.exists():
         raise HTTPException(status_code=404, detail="features.json not found")
     
     # Read and return the file content
-    with open("features.json", "r", encoding="utf-8") as f:
+    with open(file_path, "r", encoding="utf-8") as f:
         content = f.read()
     
     # Return as JSON response
@@ -111,16 +117,18 @@ def get_features():
 
 @app.get("/styles.css")
 def get_css():
-    if not os.path.exists("styles.css"):
+    file_path = BASE_DIR / "src" / "styles.css"
+    if not file_path.exists():
         raise HTTPException(status_code=404, detail="styles.css not found")
-    return FileResponse("styles.css", media_type="text/css")
+    return FileResponse(file_path, media_type="text/css")
 
 
 @app.get("/script.js")
 def get_js():
-    if not os.path.exists("script.js"):
+    file_path = BASE_DIR / "src" / "script.js"
+    if not file_path.exists():
         raise HTTPException(status_code=404, detail="script.js not found")
-    return FileResponse("script.js", media_type="application/javascript")
+    return FileResponse(file_path, media_type="application/javascript")
 
 
 # Test endpoint to see if server is working
@@ -129,12 +137,13 @@ def test():
     return {
         "status": "ok",
         "files": {
-            "features.json": os.path.exists("features.json"),
-            "countries.json": os.path.exists("countries.json"),
-            "styles.css": os.path.exists("styles.css"),
-            "script.js": os.path.exists("script.js"),
-            "index.html": os.path.exists("index.html")
+            "features.json": (BASE_DIR / "data" / "features.json").exists(),
+            "countries.json": (BASE_DIR / "data" / "countries.json").exists(),
+            "styles.css": (BASE_DIR / "src" / "styles.css").exists(),
+            "script.js": (BASE_DIR / "src" / "script.js").exists(),
+            "index.html": (BASE_DIR / "src" / "index.html").exists()
         },
+        "base_directory": str(BASE_DIR),
         "working_directory": os.getcwd()
     }
 

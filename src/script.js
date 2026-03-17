@@ -5,6 +5,11 @@ document.addEventListener('DOMContentLoaded', function() {
   const featureContainer = document.getElementById('feature-container');
   const resultsList = document.getElementById('results');
 
+  // Configure API endpoint based on environment
+  const API_BASE_URL = window.location.hostname === 'localhost' || window.location.hostname === '127.0.0.1'
+    ? window.location.origin
+    : 'https://your-render-backend.onrender.com'; // Replace with your Render URL
+
   // Load features from features.json and generate UI
   loadFeatures();
 
@@ -38,9 +43,9 @@ document.addEventListener('DOMContentLoaded', function() {
       
       // Try multiple approaches
       const urlsToTry = [
+        API_BASE_URL + '/features.json',
         '/features.json',
         'features.json',
-        window.location.origin + '/features.json',
         './features.json'
       ];
       
@@ -215,7 +220,7 @@ document.addEventListener('DOMContentLoaded', function() {
     }
 
     try {
-      const res = await fetch("/narrow", {
+      const res = await fetch(API_BASE_URL + "/narrow", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
